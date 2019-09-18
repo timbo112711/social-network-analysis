@@ -8,7 +8,7 @@ The data was gathered from the Microsoft Graph API. Using this API we were able 
     Steps:
     1. Grab all user's email (userPrincipalName)
     2. For each email grab their mailFolders
-        a. Parse out the inbox ID
+        a. Parse out the inbox ID and sent ID
     3. Create a df that holds each users email and their inbox ID
     4. 
 
