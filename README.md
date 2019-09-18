@@ -1,5 +1,3 @@
-# social-network-analysis
-
 # Link Prediction in Social Email Network
 ## Goal
 The goal here was to provide a use case of grabbing structured data and performing analysis with that structured data. Mapping each user's social email network and also trying to predict the probability of a link between a set of users.
