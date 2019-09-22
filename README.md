@@ -1,6 +1,6 @@
 # Link Prediction in Social Email Network
 ## Goal
-The goal here was to provide a use case of grabbing structured data and performing analysis with that structured data. Mapping each user's social email network and also trying to predict the probability of a link between a set of users.
+The goal here was to provide a use case of grabbing unstructured data, cleaning it up, and performing analysis. Mapping each user's social email network and also trying to predict the probability of a link between a set of users.
 
 ### Data
 The data was gathered from the Microsoft Graph API. Using this API we were able to gather all users, their inbox and sent email folders, and who they received and sent emails to.
